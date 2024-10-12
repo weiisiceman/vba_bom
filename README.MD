@@ -1,4 +1,4 @@
-###VBA开发bom功能
+##VBA开发bom功能
 
 本项目基于VBA开发的Bom功能，利用treeview控件实现树形结构的显示，并实现了BOM展开功能，在学习了BOM功能之外，也可以学习treeview控件的使用。
 主要模块如下：
